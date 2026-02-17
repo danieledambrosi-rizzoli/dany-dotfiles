@@ -1,5 +1,12 @@
-# How to download and install Linux
+# Install Debian10.2 Buster
 
+La mia personale guida all'installazione di Debian10.2
+
+## Preparazione su Virtual Box
+> quote
+## Preparazione su VMWare Workstation Pro
+> quote
+## Installazione
 > [!TIP]
 > This is a tip.
 
