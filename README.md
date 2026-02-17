@@ -7,13 +7,16 @@ come riportato sulle slide di Sistemi Operativi e Virtualizzazione.
 * installa la ISO Debian10.2 dalla [repo ufficiale](https://cdimage.debian.org/cdimage/archive/10.2.0-live/amd64/iso-hybrid/).
 * installa la ISO Debian10.2 dal drive fornito dal professore.
 
-> [!NOTE]
+> [!TIP]
 > se stai installando la ISO dal repo ufficiale ricorda che non useremo un ambiente desktop, quindi basterà scaricare la versione standard (senza desktop enviroment).
 
-## Preparazione su Virtual Box
-> quote
-## Preparazione su VMWare Workstation Pro
-> quote
+> scegli il prossimo step in base al tuo ambiente di virtualizzazione
+## 2.A Preparazione su Virtual Box
+![vbox creazione VM](/attachments/vbox0.png)
+
+## 2.B Preparazione su VMWare Workstation Pro
+
+
 ## Installazione
 > [!TIP]
 > This is a tip.
