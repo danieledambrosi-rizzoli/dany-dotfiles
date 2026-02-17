@@ -14,3 +14,6 @@
 
 > [!NOTE]
 > This is a note.
+
+- [x] This is a done task #1
+- [] This is an undone task
